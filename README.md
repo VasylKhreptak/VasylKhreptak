@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on pet projects.
 - 👯 I’m looking to collaborate with Unity developers.
 - 💡 Learning a new things is always a goal to me.
-- ⚡ Fun fact: I love Phootgraphy, especially Astrophotography.
+- ⚡ Fun fact: I love Photography, especially Astrophotography.
 <br>
 
 ---
