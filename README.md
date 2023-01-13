@@ -28,7 +28,11 @@
 </summary>
    <br>
   
-<code>123123</code>
+<code>Unity</code>
+<code>Git</code>
+<code>Jetbrains Rider</code>
+<code>Zenject</code>
+<code>DoTween</code>
   
 </details>
 <br>
