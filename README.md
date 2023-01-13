@@ -9,3 +9,13 @@
     This is me <b>Vasyl Khreptak</b>, a third year <a href="https://lpnu.ua/"><b>LPNU</b></a> undergraduate from <b>Institute of telecommunications, electronics and radio electronics engineering</b>, Ukraine, Lviv.
     
 </p>
+
+  
+  <h3>Little facts about me 🧑</h3>
+
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 🔭 I’m currently working on pet projects.
+- 👯 I’m looking to collaborate with Unity developers.
+- 💡 Learning a new things is always a goal to me.
+- ⚡ Fun fact: I love Phootgraphy, especially Astrophotography.
+<br>
