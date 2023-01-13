@@ -41,3 +41,16 @@
   
 </details>
 <br>
+
+<details>
+<summary>
+  🌱 Looking forward to learn:
+</summary>
+   <br>
+ 
+<code>Machine Learning/AI</code>
+<code>ECS</code>
+<code>Photon PUN 2/Mirror</code>
+  
+</details>
+<br>
