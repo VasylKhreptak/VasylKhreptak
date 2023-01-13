@@ -55,3 +55,21 @@
   
 </details>
 <br>
+
+---
+
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/vasyl-khreptak-52aa70261/">
+   <img align="left" alt="Vasyl Khreptak | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:vasylkhreptak12@gmail.com">
+    <img align="left" alt="Vasyl Khreptak | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://www.instagram.com/_feynom_/">
+    <img align="left" alt="Vasyl Khreptak | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+   <a href="https://www.facebook.com/profile.php?id=100010075234246">
+    <img align="left" alt="Vasyl Khreptak | Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+  <br>
