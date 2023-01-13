@@ -27,7 +27,8 @@
   ✨ Tech stack currently using:
 </summary>
    <br>
-  
+ 
+<code>C#</code>
 <code>Unity</code>
 <code>Git</code>
 <code>Jetbrains Rider</code>
