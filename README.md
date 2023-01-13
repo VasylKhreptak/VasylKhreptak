@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Vasyl Khreptak</b>, a third year <a href="https://lpnu.ua/"><b>LPNU</b></a> undergraduate from <b>Institute of telecommunications, electronics and radio electronics engineering/b>, Ukraine, Lviv</b>.
+    This is me <b>Vasyl Khreptak</b>, a third year <a href="https://lpnu.ua/"><b>LPNU</b></a> undergraduate from <b>Institute of telecommunications, electronics and radio electronics engineering/b>, Ukraine, Lviv.
     An aspiring <b>Game Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp;</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
