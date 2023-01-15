@@ -5,29 +5,29 @@
 </p>
 
 <p align="center">
-  <em>
-    This is me <b>Vasyl Khreptak</b>, a third year <a href="https://lpnu.ua/"><b>LPNU</b></a> undergraduate from <b>Institute of telecommunications, electronics and radio electronics engineering</b>, Ukraine, Lviv.
-    
+    This is me <b>Vasyl Khreptak</b>, a third year <a href="https://lpnu.ua/"><b>LPNU</b></a> undergraduate from <b>Institute of telecommunications, electronics and radio electronics engineering</b>, Ukraine, Lviv
 </p>
 
-  
-  <h3>Little facts about me 🧑</h3>
+
+<h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on pet projects.
 - 👯 I’m looking to collaborate with Unity developers.
 - 💡 Learning a new things is always a goal to me.
 - ⚡ Fun fact: I love Photography, especially Astrophotography.
-<br>
+  <br>
 
 ---
+
+- CV(English): <a href="https://github.com/VasylKhreptak/VasylKhreptak/blob/main/CV.pdf"><b>CV</b></a>
 
 <details>
 <summary>
   ✨ Tech stack:
 </summary>
    <br>
- 
+
 <code>C#</code>
 <code>Unity</code>
 <code>Git</code>
@@ -38,7 +38,7 @@
 <code>Built-in/Universal Render Pipelines</code>
 <code>Shader Graph</code>
 <code>Google Firebase</code>
-  
+
 </details>
 <br>
 
@@ -47,20 +47,20 @@
   🌱 Looking forward to learn:
 </summary>
    <br>
- 
+
 <code>Machine Learning/AI</code>
 <code>ECS</code>
 <code>Photon PUN 2/Mirror</code>
 <code>Shader Lab / HLSL</code>
 <code>AR/VR</code>
-  
+
 </details>
 <br>
 
 ---
 
 <h4> Connect with me🤝: <h4>
-  </hr>
+  </h4>
   <a href="https://www.linkedin.com/in/vasyl-khreptak-52aa70261/">
    <img align="left" alt="Vasyl Khreptak | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
