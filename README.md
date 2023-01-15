@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-  ✨ Tech stack currently using:
+  ✨ Tech stack:
 </summary>
    <br>
  
