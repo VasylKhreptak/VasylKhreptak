@@ -38,6 +38,7 @@
 <code>Built-in/Universal Render Pipelines</code>
 <code>Shader Graph</code>
 <code>Google Firebase</code>
+<code>AR Core</code>
 
 </details>
 <br>
