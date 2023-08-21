@@ -48,11 +48,11 @@
 </summary>
    <br>
 
-<code>Machine Learning/AI</code>
 <code>ECS</code>
-<code>Photon PUN 2/Mirror</code>
-<code>Shader Lab / HLSL</code>
-<code>AR/VR</code>
+<code>Fishnet</code>
+<code>HLSL</code>
+<code>Compute Shaders</code>
+<code>VR</code>
 
 </details>
 <br>
