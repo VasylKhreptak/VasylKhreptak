@@ -86,8 +86,8 @@
 
 ## 📊 Stats
 
-<a href="https://github.com/cheerylee"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api?username=VasylKhreptak&show_icons=true&theme=radical" height="172"/></a>
-<a href="https://github.com/cheerylee"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="172"/></a>
+<a href="https://github.com/VasylKhreptak"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api?username=VasylKhreptak&show_icons=true&theme=radical" height="172"/></a>
+<a href="https://github.com/VasylKhreptak"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasylKhreptak&layout=compact&theme=radical" height="172"/></a>
 
 <h4> Connect with me🤝: <h4>
   </h4>
