@@ -65,7 +65,6 @@
 <code>Adobe Illustrator</code>
 <code>Audacity</code>
 <code>Fishnet</code>
-<code>Unit Testing</code>
 
 </details>
 
@@ -80,6 +79,23 @@
 <code>HLSL</code>
 <code>Compute Shaders</code>
 <code>VR</code>
+
+</details>
+
+<details>
+<summary>
+  🔧 Written tools:
+</summary>
+
+- [**Audio Service**](https://github.com/VasylKhreptak/AudioService) - Top-tier 3D game audio tool with full control over music and sound effects.
+- [**Timer**](https://github.com/VasylKhreptak/Timer) - Create actions with timers or cooldowns for efficient gameplay in most games.
+- [**Banks**](https://github.com/VasylKhreptak/Banks) - Take control of your game's resources with this tool.
+- [**Health**](https://github.com/VasylKhreptak/Health) - Manage health and damage in your game with this tool.
+- [**ObjectPoolSystem**](https://github.com/VasylKhreptak/ObjectPoolSystem) - Manage your game objects.
+- [**GameObjectKernel**](https://github.com/VasylKhreptak/GameObjectKernel) - Notify root object enable/disable events with GameObjectKernel in GameObjectContext via interfaces.
+- [**NetworkObjectKernel**](https://github.com/VasylKhreptak/NetworkObjectKernel) - Utilize NetworkBehaviour callbacks with interfaces, leveraging Zenject and Fishnet.
+- [**GameObjetContextRunner**](https://github.com/VasylKhreptak/GameObjectContextRunner) - Resolve dependency injection for instantiated objects in networking plugins.
+- [**Animations**](https://github.com/VasylKhreptak/Animations) - Efficient UI animations in minimal code using DoTween for swift development.
 
 </details>
 
