@@ -65,6 +65,8 @@
 <code>Adobe Illustrator</code>
 <code>Audacity</code>
 <code>Fishnet</code>
+<code>NavMesh Agents</code>
+<code>A* Pathfinding</code>
 
 </details>
 
