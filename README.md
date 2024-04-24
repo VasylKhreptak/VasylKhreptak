@@ -40,7 +40,7 @@
 
 <details>
 <summary>
-  ✨ Tech stack and SDKs:
+  ✨ Tech stack, skills and SDKs:
 </summary>
 
 <code>C#</code>
