@@ -67,6 +67,7 @@
 <code>Fishnet</code>
 <code>NavMesh Agents</code>
 <code>A* Pathfinding</code>
+<code>Flexalon Grid Layout</code>
 
 </details>
 
