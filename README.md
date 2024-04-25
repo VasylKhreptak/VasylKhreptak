@@ -68,6 +68,7 @@
 <code>NavMesh Agents</code>
 <code>A* Pathfinding</code>
 <code>Flexalon Grid Layout</code>
+<code>UniTask</code>
 
 </details>
 
