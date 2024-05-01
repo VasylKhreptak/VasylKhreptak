@@ -100,6 +100,9 @@
 - [**NetworkObjectKernel**](https://github.com/VasylKhreptak/NetworkObjectKernel) - Utilize NetworkBehaviour callbacks with interfaces, leveraging Zenject and Fishnet.
 - [**GameObjetContextRunner**](https://github.com/VasylKhreptak/GameObjectContextRunner) - Resolve dependency injection for instantiated objects in networking plugins.
 - [**Animations**](https://github.com/VasylKhreptak/Animations) - Efficient UI animations in minimal code using DoTween for swift development.
+- [**Extensions**](https://github.com/VasylKhreptak/Extensions) - A collection of most used extension in game development.
+- [**MinMaxProperties**](https://github.com/VasylKhreptak/Extensions) - A simple helper scripts for combining two values of same type into one object.
+- [**ResourceVisualizer**](https://github.com/VasylKhreptak/ResourceVisualizer) - A plugin for visualizing resources like flying coins on screen.
 
 </details>
 
