@@ -69,6 +69,7 @@
 <code>A* Pathfinding</code>
 <code>Flexalon Grid Layout</code>
 <code>UniTask</code>
+<code>Unity Localization</code>
 
 </details>
 
