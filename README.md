@@ -37,6 +37,7 @@
 ---
 
 - CV(English): <a href="https://github.com/VasylKhreptak/VasylKhreptak/blob/main/CV.pdf"><b>CV</b></a>
+- Portfolio: <a href="https://gamedevportfolio.tilda.ws/"><b>Portfolio</b></a>
 
 <details>
 <summary>
