@@ -64,6 +64,7 @@
 <code>Adobe Photoshop</code>
 <code>Adobe Premiere Pro</code>
 <code>Adobe Illustrator</code>
+<code>Blender</code>
 <code>Audacity</code>
 <code>Fishnet</code>
 <code>NavMesh Agents</code>
