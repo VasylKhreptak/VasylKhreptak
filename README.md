@@ -74,6 +74,7 @@
 <code>Unity Localization</code>
 <code>ParrelSync</code>
 <code>NiceVibrations</code>
+<code>NewtonSoft</code>
 
 </details>
 
