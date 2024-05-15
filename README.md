@@ -73,6 +73,7 @@
 <code>UniTask</code>
 <code>Unity Localization</code>
 <code>ParrelSync</code>
+<code>NiceVibrations</code>
 
 </details>
 
