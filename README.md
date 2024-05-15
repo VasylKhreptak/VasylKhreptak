@@ -71,6 +71,7 @@
 <code>Flexalon Grid Layout</code>
 <code>UniTask</code>
 <code>Unity Localization</code>
+<code>ParrelSync</code>
 
 </details>
 
