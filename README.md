@@ -84,11 +84,11 @@
 </summary>
 
 <code>Architecture approaches</code>
+<code>Addressables</code>
 <code>ECS</code>
 <code>Networking</code>
 <code>HLSL</code>
 <code>Compute Shaders</code>
-<code>VR</code>
 
 </details>
 
