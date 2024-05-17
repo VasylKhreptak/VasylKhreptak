@@ -87,6 +87,8 @@
 <code>Addressables</code>
 <code>ECS</code>
 <code>Networking</code>
+<code>Spine</code>
+<code>Animation Rigging</code>
 <code>HLSL</code>
 <code>Compute Shaders</code>
 
