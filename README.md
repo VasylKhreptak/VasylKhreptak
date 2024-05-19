@@ -85,6 +85,7 @@
 
 <code>Architecture approaches</code>
 <code>Addressables</code>
+<code>Odin Inspector</code>
 <code>ECS</code>
 <code>Networking</code>
 <code>Spine</code>
