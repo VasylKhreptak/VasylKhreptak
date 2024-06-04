@@ -68,7 +68,7 @@
 <code>Audacity</code>
 <code>Fishnet</code>
 <code>NavMesh Agents</code>
-<code>A* Pathfinding</code>
+<code>A* Pathfinding Project</code>
 <code>Flexalon Grid Layout</code>
 <code>UniTask</code>
 <code>Unity Localization</code>
