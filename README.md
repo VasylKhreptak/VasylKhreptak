@@ -18,11 +18,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VasylKhreptak/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=LPNU+Undergraduate;Unity+Game+Developer;Aspiring+Learner&center=true&width=500&height=30"></a>
+  <a href="https://github.com/VasylKhreptak/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=LPNU+Graduate;Unity+Developer;Aspiring+Learner&center=true&width=500&height=30"></a>
 </p>
 
 <p align="center">
-    This is me <b>Vasyl Khreptak</b>, a fourth year <a href="https://lpnu.ua/"><b>LPNU</b></a> undergraduate from <b>Institute of telecommunications, electronics and radio electronics engineering</b>, Ukraine, Lviv
+    I’m <b>Vasyl Khreptak</b>, a graduate of Lviv Polytechnic National University (LPNU), where I completed my Bachelor’s degree at the Institute of Telecommunications, Electronics and Radio Engineering in Lviv, Ukraine.
 </p>
 
 <h3>Little facts about me 🧑</h3>
@@ -52,9 +52,10 @@
 <code>Visual Studio Code</code>
 <code>Pycharm</code>
 <code>Zenject</code>
+<code>VContainer</code>
 <code>DoTween</code>
 <code>UniRx</code>
-<code>Built-in/Universal Render Pipelines</code>
+<code>Built-in/Universal/ HDRP Render Pipelines</code>
 <code>Shader Graph</code>
 <code>Google Admob</code>
 <code>Firebase Analytics, Realtime DB, Storage, Crashlytics, Messaging, Authentication</code>
@@ -67,6 +68,7 @@
 <code>Blender</code>
 <code>Audacity</code>
 <code>Fishnet</code>
+<code>Photon PUN2</code>
 <code>NavMesh Agents</code>
 <code>A* Pathfinding Project</code>
 <code>Flexalon Grid Layout</code>
@@ -75,6 +77,10 @@
 <code>ParrelSync</code>
 <code>NiceVibrations</code>
 <code>NewtonSoft</code>
+<code>DOTS</code>
+<code>PS4/PS5</code>
+<code>Addressables</code>
+<code>Odin Inspector</code>
 
 </details>
 
@@ -84,12 +90,8 @@
 </summary>
 
 <code>Architecture approaches</code>
-<code>Addressables</code>
-<code>Odin Inspector</code>
 <code>ECS</code>
 <code>Networking</code>
-<code>Spine</code>
-<code>Animation Rigging</code>
 <code>HLSL</code>
 <code>Compute Shaders</code>
 
@@ -97,9 +99,13 @@
 
 <details>
 <summary>
-  🔧 Written tools:
+  🔧 Written tools/packages:
 </summary>
 
+- [**DOTS Pathfinding**](https://github.com/VasylKhreptak/DOTS_Pathfinding) - High-performance pathfinding system built on Unity DOTS, designed to efficiently handle large numbers of agents using multithreaded processing and runtime NavMesh generation.
+- [**Project Template**](https://github.com/VasylKhreptak/ProjectTemplate) - A reusable Unity template built on state machines, scoped architecture, and dependency injection to provide a scalable, clean foundation for fast project setup. 
+- [**DOTS Project Template**](https://github.com/VasylKhreptak/DOTS_ProjectTemplate) - A Unity DOTS-based template extending the base architecture with manual system management and strict execution order to ensure deterministic, controlled, and stable ECS behavior. 
+- [**Simple Wall Collider**](https://assetstore.unity.com/packages/tools/utilities/simple-wall-collider-307337) - A Unity tool for generating wall colliders along splines, with height, quality, and simplification controls, plus ground projection and gizmo visualization.
 - [**Audio Service**](https://github.com/VasylKhreptak/AudioService) - Top-tier 3D game audio tool with full control over music and sound effects.
 - [**Timer**](https://github.com/VasylKhreptak/Timer) - Create actions with timers or cooldowns for efficient gameplay in most games.
 - [**Banks**](https://github.com/VasylKhreptak/Banks) - Take control of your game's resources with this tool.
@@ -107,29 +113,22 @@
 - [**ObjectPoolSystem**](https://github.com/VasylKhreptak/ObjectPoolSystem) - Manage your game objects.
 - [**GameObjectKernel**](https://github.com/VasylKhreptak/GameObjectKernel) - Notify root object enable/disable events with GameObjectKernel in GameObjectContext via interfaces.
 - [**NetworkObjectKernel**](https://github.com/VasylKhreptak/NetworkObjectKernel) - Utilize NetworkBehaviour callbacks with interfaces, leveraging Zenject and Fishnet.
-- [**GameObjetContextRunner**](https://github.com/VasylKhreptak/GameObjectContextRunner) - Resolve dependency injection for instantiated objects in networking plugins.
-- [**Animations**](https://github.com/VasylKhreptak/Animations) - Efficient UI animations in minimal code using DoTween for swift development.
 - [**Extensions**](https://github.com/VasylKhreptak/Extensions) - A collection of most used extension in game development.
-- [**MinMaxProperties**](https://github.com/VasylKhreptak/Extensions) - A simple helper scripts for combining two values of same type into one object.
-- [**ResourceVisualizer**](https://github.com/VasylKhreptak/ResourceVisualizer) - A plugin for visualizing resources like flying coins on screen.
 
 </details>
 
 ---
 
-## 📊 Stats
+<h4>Connect with me 🤝</h4>
 
-<a href="https://github.com/VasylKhreptak"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api?username=VasylKhreptak&show_icons=true&theme=radical" height="172"/></a>
-<a href="https://github.com/VasylKhreptak"><img alt="GitHub" title="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasylKhreptak&layout=compact&theme=radical" height="172"/></a>
+<a href="https://www.linkedin.com/in/vasyl-khreptak-52aa70261/" target="_blank">
+  <img align="left" alt="Vasyl Khreptak | LinkedIn" width="24px"
+       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
 
-<h4> Connect with me🤝: <h4>
-  </h4>
-  <a href="https://www.linkedin.com/in/vasyl-khreptak-52aa70261/">
-   <img align="left" alt="Vasyl Khreptak | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:vasylkhreptak12@gmail.com">
-    <img align="left" alt="Vasyl Khreptak | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.instagram.com/_feynom_/">
-    <img align="left" alt="Vasyl Khreptak | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  <br>
+<a href="https://www.instagram.com/_feynom_/" target="_blank">
+  <img align="left" alt="Vasyl Khreptak | Instagram" width="24px"
+       src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+
+<br clear="left"/>
